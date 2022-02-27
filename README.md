@@ -1,2 +1,2 @@
 # My Portfolio
-It's m own website, you can check it out.
+It's my own website, you can check it out.
